@@ -1,0 +1,254 @@
+.icon {
+    font-size: 10px;
+}
+
+.icon:before {
+    content:' ';
+    vertical-align:middle;
+    display: inline-block;
+    background-image: url("../svg_sprite.html");
+    background-repeat: no-repeat;
+    background-size: 65.06em 610.8em;
+}
+
+.no-svg .icon:before {
+    background-image: url("../svg_sprite.html");
+}
+
+
+
+  .icon.icon-$:before {
+      background-position: 0em 0em;
+      width: 20em;
+      height: 20em;
+  }
+
+
+
+
+  .icon.icon-@:before {
+      background-position: 0em -20em;
+      width: 20em;
+      height: 20em;
+  }
+
+
+
+
+  .icon.icon-G+:before {
+      background-position: 0em -40em;
+      width: 20em;
+      height: 20em;
+  }
+
+
+
+
+  .icon.icon-Gaz_logo:before {
+      background-position: 0em -60em;
+      width: 20em;
+      height: 20em;
+  }
+
+
+
+
+  .icon.icon-Yandex_Money:before {
+      background-position: 0em -80em;
+      width: 52em;
+      height: 12em;
+  }
+
+
+
+
+  .icon.icon-Yandex_Money2:before {
+      background-position: 0em -92em;
+      width: 52em;
+      height: 12em;
+  }
+
+
+
+
+  .icon.icon-aer_logo:before {
+      background-position: 0em -104em;
+      width: 20em;
+      height: 20em;
+  }
+
+
+
+
+  .icon.icon-customer-service:before {
+      background-position: 0em -124em;
+      width: 3.3899999999999997em;
+      height: 3.3899999999999997em;
+  }
+
+
+
+
+  .icon.icon-fb:before {
+      background-position: 0em -127.4em;
+      width: 20em;
+      height: 20em;
+  }
+
+
+
+
+  .icon.icon-g_logo:before {
+      background-position: 0em -147.4em;
+      width: 20em;
+      height: 20em;
+  }
+
+
+
+
+  .icon.icon-insta:before {
+      background-position: 0em -167.4em;
+      width: 20em;
+      height: 20em;
+  }
+
+
+
+
+  .icon.icon-logo:before {
+      background-position: 0em -187.4em;
+      width: 20em;
+      height: 20em;
+  }
+
+
+
+
+  .icon.icon-mastercard:before {
+      background-position: 0em -207.4em;
+      width: 47.39em;
+      height: 47.39em;
+  }
+
+
+
+
+  .icon.icon-mastercard2:before {
+      background-position: 0em -254.8em;
+      width: 47.39em;
+      height: 47.39em;
+  }
+
+
+
+
+  .icon.icon-ok:before {
+      background-position: 0em -302.2em;
+      width: 20em;
+      height: 20em;
+  }
+
+
+
+
+  .icon.icon-plus-18:before {
+      background-position: 0em -322.2em;
+      width: 32.89em;
+      height: 32.89em;
+  }
+
+
+
+
+  .icon.icon-qiwi:before {
+      background-position: 0em -355.1em;
+      width: 65.06em;
+      height: 36.18em;
+  }
+
+
+
+
+  .icon.icon-qiwi2:before {
+      background-position: 0em -391.3em;
+      width: 65.06em;
+      height: 36.18em;
+  }
+
+
+
+
+  .icon.icon-ros_logo:before {
+      background-position: 0em -427.5em;
+      width: 20em;
+      height: 20em;
+  }
+
+
+
+
+  .icon.icon-sber_logo:before {
+      background-position: 0em -447.5em;
+      width: 20em;
+      height: 20em;
+  }
+
+
+
+
+  .icon.icon-support:before {
+      background-position: 0em -467.5em;
+      width: 10em;
+      height: 12.5em;
+  }
+
+
+
+
+  .icon.icon-visa:before {
+      background-position: 0em -480em;
+      width: 50.4em;
+      height: 50.4em;
+  }
+
+
+
+
+  .icon.icon-visa2:before {
+      background-position: 0em -530.4em;
+      width: 50.4em;
+      height: 50.4em;
+  }
+
+
+
+
+  .icon.icon-webmoney:before {
+      background-position: 0em -580.8em;
+      width: 4.99em;
+      height: 4.99em;
+  }
+
+
+
+
+  .icon.icon-webmoney2:before {
+      background-position: 0em -585.8em;
+      width: 4.99em;
+      height: 4.99em;
+  }
+
+
+
+
+  .icon.icon-ya_logo:before {
+      background-position: 0em -590.8em;
+      width: 20em;
+      height: 20em;
+  }
+
+
+
+
+
